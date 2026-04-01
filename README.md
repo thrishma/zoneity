@@ -2,6 +2,8 @@
 
 > AI platform turning zoning regulations into structured, queryable data.
 
+**[zoneity.app](https://zoneity.app/)**
+
 Zoneity makes zoning law accessible. Instead of reading through hundreds of pages of PDFs, architects and builders get instant answers about what they can build on any plot — FAR limits, setbacks, permitted uses, and approval paths.
 
 ## The Problem
@@ -34,6 +36,6 @@ Zoning regulations are buried in complex PDFs, amended over years, and cross-ref
 
 Private beta — currently focused on Bangalore (BDA jurisdiction).
 
-## Early Access
+## Try It
 
-Interested in early access or partnership? Reach out at [thrishma.com](https://thrishma.com).
+[zoneity.app](https://zoneity.app/)
